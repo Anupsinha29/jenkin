@@ -13,10 +13,7 @@ public class practice1test {
 	@Test
 	public void TestStep2test() {
 		System.out.println("testscript2");
-		String browser =System.getProperty("br");
-		String url =System.getProperty("url");
-		System.out.println(browser);
-		System.out.println(url);
+		
 	}
 
 }
