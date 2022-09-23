@@ -11,6 +11,7 @@ public class practice3test {
 	@Test
 	public void TestStep6test() {
 		System.out.println("testscript6");
+		System.out.println("hi");
 	}
 
 }
